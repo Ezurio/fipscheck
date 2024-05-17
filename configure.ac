@@ -1,5 +1,6 @@
 # Copyright (C) 2008, 2009, 2010, 2012, 2013 Red Hat, Inc. All rights reserved.
 # Copyright (C) 2016 Andrew Cagney
+# Copyright (C) 2022 Ezurio
 #
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are met:
@@ -25,7 +26,7 @@
 # of the authors and should not be interpreted as representing official policies,
 # either expressed or implied, of Red Hat, Inc.
 
-AC_INIT([fipscheck],[1.7.0],[support@lairdconnect.com])
+AC_INIT([fipscheck],[1.7.0],[support@ezurio.com])
 AC_CONFIG_HEADERS([config.h])
 AC_PREREQ([2.69])
 
